@@ -1,0 +1,8 @@
+v1.0.0
+
+A program was created for playing number guessing game with:-
+	- a function defined and called in which all the logic is written
+	- a list to collect the numbers
+	- a while loop to play the game continuously until the user needed to quit
+	- if else conditions to check whether the guess was correct or not
+
